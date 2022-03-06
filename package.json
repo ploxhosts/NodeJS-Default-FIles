@@ -1,0 +1,22 @@
+{
+  "name": "demofile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "setup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ploxhosts/NodeJS-Default-FIles.git"
+  },
+  "author": "Donald <donald@plox.host>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ploxhosts/NodeJS-Default-FIles/issues"
+  },
+  "homepage": "https://github.com/ploxhosts/NodeJS-Default-FIles#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
