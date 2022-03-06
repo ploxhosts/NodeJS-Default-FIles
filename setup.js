@@ -10,10 +10,4 @@ execute("node --version", function(data){
 execute("npm --version", function(data){
   console.log(`NPM Version: ${data}`);
 });
-execute("nvm version", function(data){
-  console.log(`NVM Version: ${data}`);
-});
-execute("nvm current", function(data){
-  console.log(`NVM Node Version: ${data}`);
-});
 setInterval(() => {}, 1 << 30);
